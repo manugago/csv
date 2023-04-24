@@ -1,0 +1,23 @@
+﻿id,pais,precio_base,factor_aumento,factor_oficinas
+28,España,,,
+29,Argentina,,,
+30,Bolivia,,,
+31,Chile,,,
+32,Colombia,14925000,1868000,3736000
+33,Costa Rica,,,
+34,Cuba,,,
+35,Ecuador,,,
+36,El Salvador,,,
+37,Francia,,,
+38,Guatemala,,,
+39,Honduras,,,
+40,México,81050,10200,20300
+41,Nicaragua,,,
+42,Panamá,,,
+43,Paraguay,,,
+44,Perú,,,
+45,Portugal,,,
+46,Puerto Rico,,,
+47,República Dominicana ,,,
+48,Uruguay,,,
+49,Venezuela,,,
